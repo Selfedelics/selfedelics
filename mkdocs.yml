@@ -12,6 +12,8 @@ nav:
   - Home: 'index.md'
   - Mushrooms: 
     - 'pftek/pftek.md'
+  - San Pedro:
+    - JTTek: 'sanpedro/jttek.md'
        
 
 # Configuration
