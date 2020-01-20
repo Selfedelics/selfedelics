@@ -32,3 +32,9 @@ markdown_extensions:
     - toc:
         permalink: true
 
+# Customization
+extra:
+#  manifest: 'manifest.json'
+  social:
+    - type: 'github'
+      link: 'https://github.com/Selfedelics'
