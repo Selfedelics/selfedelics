@@ -9,8 +9,8 @@ repo_url: 'https://github.com/Selfedelics/selfedelics'
 
 # Navigation
 nav:
-  - index.md
-  - pftek/pftek.md
+  Home: index.md
+  Mushrooms: pftek/pftek.md
        
 
 # Configuration
