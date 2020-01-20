@@ -1,19 +1,19 @@
 # JTTek Tea
 
-I named this "JT" Tek after the author whom published it within an article about how to make mescaline tea from a San Pedro cuttings.  It's actually a pretty generic no nonsense method that I am sure is used by many, and might have many other names. Just like all other "TEK" there are lots of vairiations with folks coming up with all kinds of useful and not so useful implementation details. I mostly ignore TEK that is too heavily saturated in fancy implementation details. If the method is described properly, and is sufficiently simple, the the implimentation details should also be simple, and thus easy to improvise. In otherwords the tech should contain only simple and/or required implementation details in my opion. Here goes!  
+I named this "JT" Tek after the author whom published it within an article about how to make mescaline tea from a San Pedro cuttings.  It's actually a pretty generic no nonsense method that I am sure is used by many, and might have many other names. Just like all other "TEK" there are lots of vairiations with folks coming up with all kinds of useful and not so useful implementation details. If the method is described properly, and is sufficiently simple, the the implimentation details should also be simple, and thus easy to improvise. In otherwords the tech should contain only simple and/or required implementation details in my opion. Here goes!  
 
 This TEK assumes you have aquired a cutting of mescaline active San Pedro, or have a live catus to take a cutting from.  Here is the things you may need. Read through the method, improvise implementation details if needed, this is a simple TEK, you can do it!
 
-* knife (to 'skin' the cactus)
+* knife (to de-spine and skin the cactus)
 * a stove or fire pit (to boil a pot of water)
 * a pot (to boil water in)
 * water 
 * a strainer
-* time
+* time, 1 hour prep, 5 to 6 hours boiling
 
 ## Cutting size
 
-Choose a cutting, or catus arm, that is at least the size of your own forearm, as measured from your elbow to the end of your balled-up fist, and roughly the same girth. If the potency of the cactus is unknown, its best to error on the side of slighly longer.  You can evaulate your dosage as the trip progresses and sip more tea if needed. But if you end up with too little, you are out of luck. 
+Choose a cutting, or catus arm, that is at least the size of your own forearm, as measured from your elbow to the end of your balled-up fist, and roughly the same girth. If the potency of the cactus is unknown, its best to error on the side of slighly longer.  You can evaluate your dosage as the trip progresses and sip more tea if needed. But if you end up with too little, you are out of luck. 
 
 ## Remove the spines and skin
 
@@ -33,8 +33,23 @@ Choose a cutting, or catus arm, that is at least the size of your own forearm, a
 
 ### Second boiling
 
-1. put the shaving back into the pot with ~2 liters of fresh water
-1. boil for 2 hours
+1. put the shavings back into the pot with ~2 liters of fresh water
+1. boil for 2 more hours
 1. pour through strainer and combine with first batch
+1. you are aiming for 250 to 500 ml of liquid total after both boils
+  1. less liquid simply means less you have to drink, 250 ml would be ideal, but 300 ro 400 ml is fine!
+    1. less liquid is desirable as this tea is bitter to drink
+1. if needed continue to reduce the combined batch to somwhere between 400 and 250 ml. 
+1. let combined batch cool over night
+
+## Preparing to drink the tea
+
+
+   
+   
+   
+   
+    
+    
 
 
