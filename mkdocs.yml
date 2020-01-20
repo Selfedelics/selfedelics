@@ -21,8 +21,10 @@ theme:
     primary: 'indigo'
     accent: 'indigo'
   font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  feature:
+    tabs: true
 
 # Extensions
 markdown_extensions:
