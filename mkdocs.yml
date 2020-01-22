@@ -50,4 +50,4 @@ extra:
       link: 'https://github.com/Selfedelics'
 
 extra_javascript:
-  - 'javascripts/extra.js'
+  - 'javascripts/rsw.js'
