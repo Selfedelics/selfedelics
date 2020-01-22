@@ -2,7 +2,8 @@
 
 const CACHE = "pwabuilder-precache";
 const precacheFiles = [
-  'index.html'
+  'index.html',
+  '/pftek/pftek.html'
 ];
 
 self.addEventListener("install", function (event) {
