@@ -1,4 +1,4 @@
-# JTTek Tea
+# Fresh Tea Tek
 
 I named this "JT" Tek after the author whom published it within an article about how to make mescaline tea from a San Pedro cuttings.  It's actually a pretty generic no nonsense method that I am sure is used by many, and might have many other names. Just like all other "TEK" there are lots of vairiations with folks coming up with all kinds of useful and not so useful implementation details. If the method is described properly, and is sufficiently simple, the the implimentation details should also be simple, and thus easy to improvise. In otherwords the tech should contain only simple and/or required implementation details in my opion. Here goes!  
 
