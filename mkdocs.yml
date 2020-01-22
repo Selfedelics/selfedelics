@@ -15,11 +15,11 @@ repo_url: 'https://github.com/Selfedelics/selfedelics'
 # Navigation
 nav:
   - Home: 'index.md'
-  - Mushrooms: 
+  - Mushrooms:
     - 'pftek/pftek.md'
   - San Pedro:
     - JTTek: 'sanpedro/jttek.md'
-       
+
 
 # Configuration
 theme:
@@ -48,3 +48,6 @@ extra:
   social:
     - type: 'github'
       link: 'https://github.com/Selfedelics'
+
+extra_javascript:
+  - 'javascripts/extra.js'
