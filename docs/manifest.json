@@ -2,7 +2,7 @@
   "name" : "Selfedelics",
   "short_name" : "Selfedelics",
   "description" : "Do it yourself psychedelics",
-  "start_url" : "https://selfedelics.com",
+  "start_url" : "https://selfedelics-git-develop.selfedelics.now.sh",
   "scope" : "/",
   "display" : "standalone",
   "orientation" : "portrait",
