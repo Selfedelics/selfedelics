@@ -39,7 +39,7 @@ markdown_extensions:
 
 # Customization
 extra:
-#  manifest: 'manifest.json'
+  manifest: 'manifest.json'
   social:
     - type: 'github'
       link: 'https://github.com/Selfedelics'

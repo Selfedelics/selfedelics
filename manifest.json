@@ -1,0 +1,10 @@
+{
+  "name" : "Selfedelics",
+  "short_name" : "Selfedelics",
+  "description" : "Do it yourself psychedelics",
+  "start_url" : "https://selfedelics.com",
+  "scope" : "/",
+  "display" : "standalone",
+  "orientation" : "portrait",
+  "lang" : "English"
+}
