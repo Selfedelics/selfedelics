@@ -3,9 +3,14 @@ site_name: Selfedelics
 site_description: Do it yourself psychedelics
 site_author: Selfedelic
 
+google_analytics:
+  - 'UA-151448862-2'
+  - 'auto'
+
 # Github repo links
 repo_name: 'Selfedelics/selfedelics'
 repo_url: 'https://github.com/Selfedelics/selfedelics'
+
 
 # Navigation
 nav:
