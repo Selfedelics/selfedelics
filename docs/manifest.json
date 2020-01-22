@@ -9,7 +9,7 @@
   "lang" : "English",
   "icons" : [
     {
-      "src" : "/assets/icon/self-512.png",
+      "src" : "/assets/icons/self-512.png",
       "type" : "image/png",
       "sizes" : "512x512"
     }
