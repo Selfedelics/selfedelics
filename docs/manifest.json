@@ -3,7 +3,7 @@
   "short_name" : "Selfedelics",
   "description" : "Do it yourself psychedelics",
   "start_url" : "index.html",
-  "scope" : ".",
+  "scope" : "/",
   "display" : "standalone",
   "orientation" : "portrait",
   "lang" : "English",
