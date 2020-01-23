@@ -1,8 +1,8 @@
 # Fresh Tea Tek
 
-I named this "JT" Tek after the author whom published it within an article about how to make mescaline tea from a San Pedro cuttings.  It's actually a pretty generic no nonsense method that I am sure is used by many, and might have many other names. Just like all other "TEK" there are lots of vairiations with folks coming up with all kinds of useful and not so useful implementation details. If the method is described properly, and is sufficiently simple, the the implimentation details should also be simple, and thus easy to improvise. In otherwords the tech should contain only simple and/or required implementation details in my opion. Here goes!  
+This Tek is actually a pretty generic no nonsense method that I am sure is used by many, and might have many other names. Just like all other "TEK" there are lots of vairiations with folks coming up with all kinds of useful and not so useful implementation details. If the method is described properly, and is sufficiently simple, the the implimentation details should also be simple, and thus easy to improvise. In otherwords the tech should contain only simple and/or required implementation details in my opion. Here goes!  
 
-This TEK assumes you have aquired a cutting of mescaline active San Pedro, or have a live catus to take a cutting from.  Here is the things you may need. Read through the method, improvise implementation details if needed, this is a simple TEK, you can do it!
+This Tek assumes you have aquired a cutting of mescaline active San Pedro, or have a live catus to take a cutting from.  Here is the things you may need. Read through the method, improvise implementation details if needed, this is a simple TEK, you can do it!
 
 * knife (to de-spine and skin the cactus)
 * a stove or fire pit (to boil a pot of water)
