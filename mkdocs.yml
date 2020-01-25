@@ -16,9 +16,9 @@ repo_url: 'https://github.com/Selfedelics/selfedelics'
 nav:
   - Home: 'index.md'
   - Mushrooms:
-    - 'pftek/pftek.md'
+    - 'pftek/index.md'
   - San Pedro:
-    - FTTek: 'sanpedro/jttek.md'
+    - FTTek: 'sanpedro/fttek.md'
 
 
 # Configuration
