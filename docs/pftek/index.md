@@ -373,7 +373,8 @@ The immature specimens are the best in quality, digestibility and potency. They 
 1. "DRIERITE" desiccant. (chemical and science supply retailers). It is the universal lab desiccant.
 2. Silica Gel granules - desiccant. (Chemical and science supply) .
 
-! Warning: These products might have toxicity warnings - (don't breathe the dust and try not to touch it directly - it dries skin.). Follow those rules, but know that desiccant in an airtight box and under a screen will do nothing to the fungi except dry them. It is completely safe for this use.
+!!! Warning  
+    These products might have toxicity warnings - (don't breathe the dust and try not to touch it directly - it dries skin.). Follow those rules, but know that desiccant in an airtight box and under a screen will do nothing to the fungi except dry them. It is completely safe for this use.
 
 What desiccant does, is absorb moisture out of the air. As the fungus transpires moisture, the moisture is immediately absorbed back into the desiccant, drying the fungi. Desiccant can be reused and lasts indefinitely. After use, the desiccant is heated, dried and stored for future use. To be sure the desiccant is dry and ready to work, heat the desiccant in an oven as instructed by the manufacturer before its' first use. This preheating should be done before the desiccant is used because when it is purchased - it is usually somewhat damp which will thwart its function for drying air. Store it in an air tight container so that it stays dry and ready for use.
 
