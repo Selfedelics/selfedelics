@@ -1,8 +1,8 @@
 {
-  "name": "mkdocs",
+  "name": "Selfedelics",
   "version": "1.0.0",
   "private": true,
-  "description": "An MkDocs project, ready for deployment with ZEIT Now.",
+  "description": "The Selfedelics project. Do it yourself psychedelics.",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -12,6 +12,6 @@
     "build": "mkdocs build -d public"
   },
   "keywords": [],
-  "author": "",
+  "author": "selfedelics@gmail.com",
   "license": "ISC"
 }

@@ -70,7 +70,8 @@ Appropriate jars; (source - super markets and hardware stores)
 4. BALL half pint jelly jar
 5. 1/2 pint (250 ml) capacity drinking glasses (tapered sides)
 
-! NOTE: Even though the regular mouth BALL half pint and the regular mouth KERR half pint look similar, the KERR is not tapered.
+!!! Note   
+    Even though the regular mouth BALL half pint and the regular mouth KERR half pint look similar, the KERR is not tapered.
 
 ### Substrate Formula
 
@@ -94,7 +95,8 @@ The above formula utilizes "HORTICULTURAL" vermiculite - a medium grade. To asce
 
 To make homemade brown rice powder, place some regular brown rice in a small canister type coffee bean grinder and grind it to fine powder. Freshly ground brown rice is recommended over prepackaged type. The freshness sometimes makes a big difference.
 
-!!!! NOTE Water quality is indeed important. I have found out that "natural" water is the water to use. It makes for better cultivation of this mushroom on this simple substrate. Distilled water is good for making spore solutions and syringes and storing spore solution. But for growing, they seem to like the "natural" water such as: swamp, lake, stream, pond, river, ground or any water that is rich in organics. I have heard that "mineral" type drinking water is good and makes a difference. I suppose that water seeping from an organic compost pile would be about the best.
+!!! Note   
+    Water quality is indeed important. I have found out that "natural" water is the water to use. It makes for better cultivation of this mushroom on this simple substrate. Distilled water is good for making spore solutions and syringes and storing spore solution. But for growing, they seem to like the "natural" water such as: swamp, lake, stream, pond, river, ground or any water that is rich in organics. I have heard that "mineral" type drinking water is good and makes a difference. I suppose that water seeping from an organic compost pile would be about the best.
 
 If the measuring cup specs aren't true, the formulas will be off, setting up certain failure or diminished growth. Check the cup measurers this way: 1 cup is 237 milliliters which is 1/2 pint or 8 liquid ounces (English measurement). There are 2 cups in a pint, 2 pints in a quart and 4 cups in a quart.
 
@@ -371,7 +373,8 @@ The immature specimens are the best in quality, digestibility and potency. They 
 1. "DRIERITE" desiccant. (chemical and science supply retailers). It is the universal lab desiccant.
 2. Silica Gel granules - desiccant. (Chemical and science supply) .
 
-! Warning: These products might have toxicity warnings - (don't breathe the dust and try not to touch it directly - it dries skin.). Follow those rules, but know that desiccant in an airtight box and under a screen will do nothing to the fungi except dry them. It is completely safe for this use.
+!!! Warning  
+    These products might have toxicity warnings - (don't breathe the dust and try not to touch it directly - it dries skin.). Follow those rules, but know that desiccant in an airtight box and under a screen will do nothing to the fungi except dry them. It is completely safe for this use.
 
 What desiccant does, is absorb moisture out of the air. As the fungus transpires moisture, the moisture is immediately absorbed back into the desiccant, drying the fungi. Desiccant can be reused and lasts indefinitely. After use, the desiccant is heated, dried and stored for future use. To be sure the desiccant is dry and ready to work, heat the desiccant in an oven as instructed by the manufacturer before its' first use. This preheating should be done before the desiccant is used because when it is purchased - it is usually somewhat damp which will thwart its function for drying air. Store it in an air tight container so that it stays dry and ready for use.
 
@@ -379,7 +382,8 @@ What desiccant does, is absorb moisture out of the air. As the fungus transpires
 
 In drying a medium sized mushroom such as Psilocybe Cubensis, use a 2 inch layer of desiccant on the bottom of the container, under the mushrooms. Place the mushrooms on a wire screen and lay them on the desiccant that is in the container. Put the container with the shrooms and desiccant into a plastic bag. A garbage bag type wire tie is sufficient to close the bag. If a clear plastic bag can be found, use that to observe the drying process. After 24 hours, a little shriveling of the shrooms can be seen. About 4 or 5 days later, the shrooms will be dried rock hard. To check the drying - the stem should snap cleanly when bent.
 
-!!!! Tip: For the best alkaloid preservation technique, the desiccant box can be put into the refrigerator and the mushrooms dried at near freezing temperatures.
+!!! Tip   
+    For the best alkaloid preservation technique, the desiccant box can be put into the refrigerator and the mushrooms dried at near freezing temperatures.
 
 Actually, about the easiest and most effective way to dry the mushrooms is to pre dry the mushrooms in the air on a wire screen. This works very well if the the room humidity is not high. After a couple of days, the shriveling fungus can be quickly and completely dried in the desiccant box. So a combination of air drying and then desiccant drying is one of the best ways there is to dry the mushrooms.
 
@@ -405,7 +409,8 @@ The mature specimens are good for spore production, but are not as good for cons
 
 1. Pre sterilize the jar and regular metal lid (rubber edge up) in a small toaster oven at around 300 degrees Fahrenheit for around a half hour. Keep the lid loose during the sterilization cycle. When the jar has cooled down, tighten the lid until it is time to use the jar for a spore print. The rubberized edge will be a bit melted, but that won't be any problem in this technique.
 
-!!! Note: What follows is a sterile technique. The first rule that must be always followed is to wash hands prior to sterile work. Hands are a prime source for bacteria and micro spore contaminants. Sterilize all the work surfaces with rubbing alcohol. Minimize drafts. Try for a still air environment. Don't breathe on the work. Run a small home appliance style HEPA air cleaner (99.97% rated efficiency - available at drug and department stores) for a few hours in a closed room to clean the air before doing sterile work.
+!!! Warning  
+    What follows is a sterile technique. The first rule that must be always followed is to wash hands prior to sterile work. Hands are a prime source for bacteria and micro spore contaminants. Sterilize all the work surfaces with rubbing alcohol. Minimize drafts. Try for a still air environment. Don't breathe on the work. Run a small home appliance style HEPA air cleaner (99.97% rated efficiency - available at drug and department stores) for a few hours in a closed room to clean the air before doing sterile work.
 
 2. Flame sterilize the scissors with an alcohol flame and snip off the mushroom cap. Cut the top of the stem as far up into the cap as possible so that the gills of the mushroom will sit flat on the surface of the jar bottom. With quick and sure movements, place the cap into the jar and place the lid on loosely. Pierce the top of the cap with a straight pin to pick it up and handle it.
 
