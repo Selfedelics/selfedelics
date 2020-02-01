@@ -1,1 +1,1 @@
-This page will be an short introduction to San Pedro. 
+This page will be a short introduction to San Pedro.
