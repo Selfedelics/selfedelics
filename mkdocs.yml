@@ -26,8 +26,8 @@ theme:
   name: 'material'
   language: 'en'
   palette:
-    primary: 'purple'
-    accent: 'purple'
+    primary: 'indigo'
+    accent: 'indigo'
   font:
     text: 'Ubuntu'
     code: 'Ubuntu Mono'
