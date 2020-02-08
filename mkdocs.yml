@@ -16,8 +16,10 @@ repo_url: 'https://github.com/Selfedelics/selfedelics'
 nav:
   - Home: 'index.md'
   - Mushrooms:
-    - 'pftek/index.md'
+    - Intro: 'mushrooms/index.md'
+    - 'mushrooms/pftek/index.md'
   - San Pedro:
+    - Intro: 'sanpedro/index.md'
     - Fresh Tea Tek: 'sanpedro/fttek.md'
 
 
