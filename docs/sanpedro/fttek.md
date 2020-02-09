@@ -19,7 +19,7 @@ Choose a cutting, or catus arm, that is at least the size of your own forearm, a
 
 1. remove the spines using the tip of the knife, compost
 1. peel the thin waxy layer on the outside with hands or with help of the knife, compost
-1. use the knife the carefully peel away _all_ the wet green flesh layer, keep this
+1. use the knife to carefully peel away _all_ the wet green flesh layer, keep this
 1. try to avoid the white pulpy stuff under the flesh green skin, it wont hurt if you get a little, but it will make the tea more bitter and add to stomach discomfort. 
 
 ## Boiling
