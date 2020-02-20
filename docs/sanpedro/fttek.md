@@ -55,17 +55,4 @@ This is mostly common sense stuff for general harm reduction. It may seem fairly
 
 ## Drinking the Tea
 
-1. wake up on time, eat a light breakfast
-  1. most people, but not all, prefer to drink the tea in the morning
-  1. this allows you to experience your peak in day light
-1. the experience can last up to 16 hours in total!
-1. it can take up to 2 hours for the effects to start
-  1. during this period light stomach nausea is common
-1. on your first experience consider drinking only half to 3/4 of your tea and waiting for the effects to come on
-  1. if you feel well, and not overwhelmed by nausea and are feeling confident, then drink the rest
-1. peak will last 4 to 5 hours
-1. by evening you will be coming down from the peak but the experience will continue gently into the night
-1. you might find yourself in deep contemplation until well past a normal bed time
-  1. being awake until after midnight is not uncommon
-  1. you may feel wired from contemplative thoughts
-  1. eventually peaceful sleep will arrive
+Wake up on time and eat a light breakfast. Most people, but not all, prefer to drink the tea in the morning as this allows you to experience your peak in day light. Timing it right is important. The effects will last up to 16 hours, and it may take up to 2 hours before the effects start after drinking the tea. After drinking the tea it is not uncommon to feel light nausea. Don't worry it will pass. If its your first experience consider drinking only half to 3/4 of your tea and waiting for the effects to come on. If you are feeling well when the effects start to come on and you not overwhelmed by nausea and are feeling confident, then drink the rest. The peak of the experience will last 4 to 5 hours. By the late afternoon or early evening time you will coming down but the experience will continue into the evening. You might find yourself in deep contemplation until well past a normal bed time. Being awake later into the evening is not uncommon as you may feel wired or awake with contemplative thoughts. Eventually peaceful sleep will arrive.
