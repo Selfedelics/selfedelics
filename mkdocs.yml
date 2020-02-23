@@ -10,7 +10,7 @@ google_analytics:
 
 # Github repo links
 repo_name: 'Selfedelics/selfedelics'
-repo_url: 'https://github.com/Selfedelics/selfedelics'
+repo_url: https://github.com/Selfedelics/selfedelics
 
 
 # Navigation
@@ -53,7 +53,7 @@ extra:
   disqus: 'selfedelics'
   social:
     - type: 'github'
-      link: 'https://github.com/Selfedelics'
+      link: https://github.com/Selfedelics
 
 extra_javascript:
   - 'javascripts/rsw.js'
