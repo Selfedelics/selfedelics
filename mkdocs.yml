@@ -52,7 +52,7 @@ extra:
   manifest: 'manifest.json'
   disqus: 'selfedelics'
   social:
-    - type: 'github'
+    - icon: brands/github-alt
       link: https://github.com/Selfedelics
 
 extra_javascript:
