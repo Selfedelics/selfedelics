@@ -2,6 +2,7 @@
 site_name: Selfedelics
 site_description: Do it yourself psychedelics
 site_author: Selfedelic
+site_url: https://selfedelics.com
 
 google_analytics:
   - 'UA-151448862-2'
@@ -9,7 +10,7 @@ google_analytics:
 
 # Github repo links
 repo_name: 'Selfedelics/selfedelics'
-repo_url: 'https://github.com/Selfedelics/selfedelics'
+repo_url: https://github.com/Selfedelics/selfedelics
 
 
 # Navigation
@@ -28,8 +29,8 @@ theme:
   name: 'material'
   language: 'en'
   palette:
-    primary: 'blue'
-    accent: 'green'
+    primary: 'indigo'
+    accent: 'indigo'
   font:
     text: 'Ubuntu'
     code: 'Ubuntu Mono'
@@ -49,9 +50,10 @@ markdown_extensions:
 # Customization
 extra:
   manifest: 'manifest.json'
+  disqus: 'selfedelics'
   social:
-    - type: 'github'
-      link: 'https://github.com/Selfedelics'
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/Selfedelics
 
 extra_javascript:
   - 'javascripts/rsw.js'
